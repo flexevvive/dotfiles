@@ -7,6 +7,7 @@ export PATH="$PATH:$DENO_INSTALL/bin"
 alias ll='ls -l --color=auto --time-style=locale -p --width=80 --block-size=MB'
 alias ls='ls --color=auto --time-style=locale -p --width=80 --format=comma'
 alias grep='grep --color=auto'
+alias dotfiles="cd ~/.dotfiles"
 
 alias vi='nvim'
 alias code='cd $HOME/Code'
