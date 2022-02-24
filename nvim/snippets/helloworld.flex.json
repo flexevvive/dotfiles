@@ -1,0 +1,12 @@
+{
+    "prelude": {
+        "name": "Hello, World",
+        "description": "Hello, World",
+        "author": "evvive <flexevvive@gmail.com>",
+        "license": "BSD-3-Clause"
+    },
+    "includes": [ "--flex-stdio--" ],
+    "--main:0": [
+
+    ]
+}
