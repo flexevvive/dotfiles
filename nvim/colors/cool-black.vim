@@ -9,7 +9,6 @@ hi NonText                                              gui=NONE
 hi MoreMsg                                              gui=NONE
 hi ModeMsg                                              gui=NONE
 hi Question                                             gui=NONE
-hi StatusLine                                           gui=NONE
 hi Title                                                gui=NONE
 hi VisualNOS                                            gui=underline
 hi DiffDelete                                           gui=NONE
@@ -57,3 +56,4 @@ hi link SpecialComment  Special
 hi link Debug           Special
 hi link PMenu           Normal
 hi link PMenuSel        Visual
+hi link StatusLine      NormalS
