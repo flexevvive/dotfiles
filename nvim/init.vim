@@ -46,6 +46,7 @@ function Colorscheme()
     hi! link SignColumn Normal
     hi! CursorLine gui=underline
     hi! Visual guibg=#ffffff guifg=#000000
+    hi! link PMenu Normal
     hi! link PMenuSel Visual
 
     return
