@@ -38,7 +38,8 @@ font:
   size: 16
   normal:
     # family: CaskaydiaCove Nerd Font
-    family: Terminus
+    # family: Terminus
+    family: TerminessTTF Nerd Font
   italic:
     # family: CaskayviaCove Nerd Font
-    family: Terminus
+    family: TerminessTTF Nerd Font
