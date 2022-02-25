@@ -55,7 +55,8 @@ augroup COLORS
     autocmd Colorscheme * call Colorscheme()
 augroup END
 
-colorscheme hyper
+" colorscheme hyper
+colorscheme cool-black
 " }}}
 
 " Plugins: {{{
