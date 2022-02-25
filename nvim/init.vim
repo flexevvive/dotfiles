@@ -68,6 +68,7 @@ Plug 'tpope/vim-surround'
 
 Plug 'tpope/vim-fugitive'
 Plug 'airblade/vim-gitgutter'
+Plug 'junegunn/gv.vim'
 
 Plug 'tpope/vim-dispatch'
 
