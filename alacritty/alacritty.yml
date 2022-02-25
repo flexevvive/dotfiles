@@ -35,11 +35,12 @@ window:
     x: 2
     y: 2
 font:
-  size: 16
+  size: 14
   normal:
     # family: CaskaydiaCove Nerd Font
-    # family: Terminus
-    family: TerminessTTF Nerd Font
+    family: Terminus
+    # family: TerminessTTF Nerd Font
   italic:
     # family: CaskayviaCove Nerd Font
-    family: TerminessTTF Nerd Font
+    family: Terminus
+    # family: TerminessTTF Nerd Font
